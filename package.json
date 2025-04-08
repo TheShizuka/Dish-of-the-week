@@ -1,0 +1,20 @@
+{
+  "name": "dish-of-the-week",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dish-of-the-week": "file:",
+    "dotenv": "^16.4.7",
+    "openai": "^4.84.0",
+    "sqlite3": "^5.1.7"
+  }
+}
